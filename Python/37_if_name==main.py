@@ -1,0 +1,2 @@
+import priya
+priya.welcome()
